@@ -1,6 +1,6 @@
 # E-commerce Microservices Application
 
-This project the backend of an Microservices Application built with modern Java technologies and frameworks, including Spring Boot, Spring Web, Spring Data JPA, and Apache Kafka. It follows a microservices architecture, enabling scalability, modularity, and flexibility for large-scale e-commerce platforms.
+This project is the backend of an Microservices Application built with modern Java technologies and frameworks, including Spring Boot, Spring Web, Spring Data JPA, and Apache Kafka. It follows a microservices architecture, enabling scalability, modularity, and flexibility for large-scale e-commerce platforms.
 
 ## Features
 
