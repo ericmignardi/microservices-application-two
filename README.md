@@ -14,13 +14,13 @@ This project the backend of an Microservices Application built with modern Java 
 
 ## Technologies
 
-- **Java 17**
-- **Spring Boot 2.x**
-- **Spring Web**
-- **Spring Data JPA**
-- **Spring Cloud Eureka**
-- **Spring Cloud Gateway**
-- **Zipkin**
-- **Apache Kafka**
-- **MySQL**
-- **Docker**
+- **Java 17**: Programming language used for building the application.
+- **Spring Boot 2.x**: Framework for building standalone applications with Spring.
+- **Spring Web**: Module for building web applications and RESTful APIs.
+- **Spring Data JPA**: Framework for simplifying database interactions using JPA (Java Persistence API).
+- **Spring Cloud Eureka**: Service discovery tool for managing microservices.
+- **Spring Cloud Gateway**: API gateway for routing and load balancing in microservices architectures.
+- **Zipkin**: Distributed tracing system for monitoring and troubleshooting microservices.
+- **Apache Kafka**: Distributed event streaming platform for building real-time data pipelines and streaming applications.
+- **MySQL**: Relational database management system for storing application data.
+- **Docker**: Platform for developing, shipping, and running applications in containers.
